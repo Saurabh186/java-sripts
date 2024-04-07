@@ -1,0 +1,11 @@
+.main {
+    height: 100vh;
+}
+.box {
+    max-height: 600px;
+    min-height: 300px;
+}
+.create-to-do {
+    list-style: none;
+    line-break: anywhere;
+}
