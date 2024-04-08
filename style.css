@@ -9,3 +9,8 @@
     list-style: none;
     line-break: anywhere;
 }
+.done {
+    text-decoration: line-through;
+    color: black;
+    background-color: #95a5a6 !important;
+}
